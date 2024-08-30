@@ -15,6 +15,5 @@ Researching the needs of farmers, the goal of this project is the implementation
   5. Prototyping through Mockups.com
 
 ## Additional info
-This was my first time working on analysis and prototyping :)
-Learning about User experience and User interface was interesting.
+Learning about User experience and User interface was interesting and this was my first time working on analysis and prototyping :)
 To conclude, my biggest lesson was: "DOCUMENTATION IS THE MOST IMPORTANT PART OF THIS 'mini project'".
