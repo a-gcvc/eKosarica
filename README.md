@@ -10,9 +10,7 @@ Researching the needs of farmers, the goal of this project is the implementation
 ## Process
   1. Interviewing potential users and using notes for the purpose of upcoming tasks.
   2. Making PMF matrix
-  3. Creating Use case diagram
+  3. Creating a Use Case Diagram
   4. Hierarchical task analysis through HTA diagram
   5. Prototyping through Mockups.com
 
-## Additional info
-Learning about User experience and User interface was interesting and this was my first time working on analysis and prototyping :)
